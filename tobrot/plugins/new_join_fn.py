@@ -38,7 +38,7 @@ async def help_message_f(client, message):
     #message_id = 99
     # display the /help
     
-    await message.reply_text("""join this group for help-- @Tech_Wizard_Ent\n\n And also don't forget to join our Channel: <a href="https://t.me/Tech_Wizard_Entertainment">Tech_Wizard_Entertainment</a>""", disable_web_page_preview=True)
+    await message.reply_text("""Torrent Leech Robot\n\n Rules And Available Commands: <a href="https://telegra.ph/Rules-And-Available-Commands-12-17">Click Here</a>""", disable_web_page_preview=True)
 
 
 async def rename_message_f(client, message):
